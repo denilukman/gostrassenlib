@@ -11,7 +11,7 @@ Usage
 
 This package can be installed with the go get command:
 
-    go get github.com/sumpahpemuda/gostrassenlib
+    go get github.com/denilukman/gostrassenlib
 
 ### Example
 
