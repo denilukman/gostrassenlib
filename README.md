@@ -20,7 +20,7 @@ package main
 
 import (
     "fmt"
-    "github.com/sumpahpemuda/gostrassenlib"
+    "github.com/denilukman/gostrassenlib"
 )
 
 func main() {
